@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">City Skyline</h2>
-In this project, I have build a City Skyline by configuring CSS variable, <br />The project is built using HTML5 & CSS3.
+In this project, I have build a City Skyline by configuring CSS variable, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/city-skyline/"><strong>➥ Live Demo</strong></a>
 
